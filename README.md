@@ -6,4 +6,6 @@
 
 ## Deployment
 
+Updated details to verify diff
+
 ## How to contribute
