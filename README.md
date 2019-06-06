@@ -9,3 +9,7 @@
 Updated details to verify diff
 
 ## How to contribute
+
+## Copyright
+
+Copyright 2014 GIT.Training
